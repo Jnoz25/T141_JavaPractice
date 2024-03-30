@@ -1,9 +1,2 @@
-package day05;
-
-public class checkPart {
-
-
-
-
-
+package day05;public class checkPart {
 }
